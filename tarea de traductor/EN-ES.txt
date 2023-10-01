@@ -1,0 +1,8 @@
+dog=perro
+perro=dog
+cat=gato
+gato=cat
+water=agua
+agua=water
+drink=bebida
+bebida=drink
